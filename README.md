@@ -1,3 +1,6 @@
+Shure.   "Vertaling + wijzigingen volgen snel"
+
+
 This project monitors Shure QLX-D wireless mics receivers and outputs status feedback to an X32 or M32 mixing console.
 
 The scribble strip will light up white when the receiver has a signal from a transmitter.  If the transmitter is turned off, the channel will go black.
